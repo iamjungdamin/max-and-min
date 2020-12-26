@@ -20,6 +20,6 @@ int main(void) {
 		if (n[i + 1] < n[i])
 			min = n[i + 1];
 
-	printf("ÃÖ´ë°ªÀº %d\nÃÖ¼Ò°ªÀº %d\n", max, min);
+	printf("ìµœëŒ€ê°’ì€ %d\nìµœì†Œê°’ì€ %d\n", max, min);
 	return 0;
 }
